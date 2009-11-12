@@ -1,0 +1,12 @@
+name: UserblogRoles
+description: Sets user roles for new userblogs
+version: 0.1
+
+config_settings:
+    UserblogStartingRoles:
+        default: ''
+
+callbacks:
+    new_user_provisioning:
+        priority: 6
+        handler: $UserblogRoles::UserblogRoles::Util::newblog_callback
