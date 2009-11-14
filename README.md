@@ -7,9 +7,11 @@ License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-lice
 
 ## Overview
 
+Define the role(s) provisioned to new users on their user blogs.
+
 The UserblogRoles plugin overrides the default role ("Blog Administrator") provided to the owner of new user blogs. One of more roles are defined as the value of the `UserblogStartingRoles` [configuration directive](http://www.movabletype.org/documentation/appendices/config-directives/).
 
-When the Movable Type installation is configured to create new blogs for each user the user is given the role of "Blog Administrator" on their blog. With the "Blog Administrator" role the user has full permissions to everything on this blog. In some systems it may be desireable to remove some functionality\* and permissions (such as the ablity to edit templates if every user is given the same template set).
+When the Movable Type installation is configured to create new blogs for each user the user is given the role of "Blog Administrator" on their blog. With the "Blog Administrator" role the user has full permissions to everything on this blog. In some systems it may be desireable to remove some functionality\* and permissions (such as the ability to edit templates if every user is given the same template set).
 
 \* [The Demenuator](http://github.com/sixapart/mt-plugin-Demenuator) (de-MENU-ator) plugin removes specified menus and menu items from the MT UI.
 
@@ -58,7 +60,7 @@ Should look like this when installed:
 
 ## Desired Feature Wish List
 
-* add wishlist item here
+* add wish-list item here
 
 
 ## Support
