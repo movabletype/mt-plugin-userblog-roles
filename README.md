@@ -1,8 +1,8 @@
 # Userblog Roles, a plugin for Movable Type
 
-Authors: Six Apart Ltd.
-Copyright: 2009 Six Apart Ltd.
-License: Licensed under the same terms as Perl itself.
+* Authors: Six Apart
+* Copyright: 2009 Six Apart Ltd.
+* License: Licensed under the same terms as Perl itself.
 
 
 ## Overview
@@ -55,9 +55,7 @@ Should look like this when installed:
         plugins/
             UserblogRoles/
 
-[More in-depth plugin installation instructions](http://tinyurl.com/easy-plugin-install).
-
 
 ## Support
 
-This plugin is not an official Six Apart Ltd. release, and as such support from Six Apart Ltd. for this plugin is not available.
+This plugin is not an official Six Apart release, and as such support from Six Apart for this plugin is not available.
