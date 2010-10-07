@@ -1,3 +1,7 @@
+# Copyright (C) 2001-2009 Six Apart, Ltd.
+#
+# Licensed under the same terms as Perl itself.
+
 use strict;
 use warnings;
 

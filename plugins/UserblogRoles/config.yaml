@@ -1,5 +1,5 @@
-name: UserblogRoles
-description: Sets user roles for new userblogs
+name: Userblog Roles
+description: Sets user roles for new userblogs.
 version: 0.1
 
 config_settings:
