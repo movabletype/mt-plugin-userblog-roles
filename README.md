@@ -1,3 +1,5 @@
+This plugin is no longer supported in Movable Type 8 and later.
+
 # Userblog Roles, a plugin for Movable Type
 
 * Authors: Six Apart
